@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:875/1*8cCHeySRX6yLedhLMkuH-g.gif" alt="Trulli" width="90%">
+<img src="https://miro.medium.com/v2/resize:fit:875/1*8cCHeySRX6yLedhLMkuH-g.gif" alt="Trulli" width="100%">
 <h1>Hi 👋, I'm Ilhom</h1>
 <p>A passionate frontend developer from UZBEKISTAN </p>
 
