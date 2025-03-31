@@ -1,5 +1,5 @@
 <img src="https://miro.medium.com/v2/resize:fit:875/1*8cCHeySRX6yLedhLMkuH-g.gif" alt="Trulli" width="100%">
-<h1>Hi 👋, I'm Ilhom</h1>
+<h1>Hi 👋, I'm Ilhom Welcome to my profile. </h1>
 <p>A passionate frontend developer from UZBEKISTAN </p>
 
 
@@ -16,7 +16,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
+<h2>(❁´◡`❁)</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
