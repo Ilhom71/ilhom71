@@ -1,66 +1,80 @@
-<img src="https://miro.medium.com/v2/resize:fit:875/1*8cCHeySRX6yLedhLMkuH-g.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-# Hi 👋, I'm Ilhom  
-### 🚀 Welcome to my GitHub Profile
+# 👋 Assalomu alaykum, men Ilhomman!  
+### 🚀 Frontend Developer | Blender Artist | O'rganuvchan dasturchi
 
-I'm a passionate **Frontend Developer** from 🇺🇿 **Uzbekistan**, focused on building modern and responsive web applications.  
-I enjoy writing clean, reusable code and turning creative ideas into digital reality.  
+Men O‘zbekistondanman. Dasturlashga bo‘lgan qiziqishim orqali veb ilovalar, 3D dizaynlar va interaktiv sahifalar yaratishni yaxshi ko‘raman. Hozirda React, PHP, Python, C++ kabi texnologiyalarni chuqur o‘rganib, haqiqiy loyihalar ustida ishlayapman.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Men ishlaydigan texnologiyalar:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  
+  <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+
+  <!-- Design -->
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistikam
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhom71&show_icons=true&theme=default" alt="Ilhom's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhom71" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhom71&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ilhom71&row=1&theme=flat" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhom71&show_icons=true&theme=gruvbox" alt="Ilhom's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhom71&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhom71&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌍 Where to Find Me
+## 📬 Muloqot uchun:
 
 <p>
-  <a href="https://twitter.com/IlhomMirto12692" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%230f1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <a href="https://t.me/ilhommirtojiyev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  
   <a href="https://www.instagram.com/ilhommirtojiyev1" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/IlhomMirto12692" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:ilhom71dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">(❁´◡`❁)</h2>
+## 🧩 Qiziqarli faktlar:
+
+- 🎯 Har kuni yangi narsalarni o‘rganaman.
+- 💻 O‘zimga shaxsiy portfolio sayti tayyorlayapman.
+- 🌐 Ingliz va o‘zbek tillarida erkin muloqot qilaman.
+- 🎨 Design va kodni birlashtirishni yaxshi ko‘raman.
+
+---
+
+> Siz ko‘rayotgan har bir loyiha – mening qadamim! 💡  
+> "O‘rganishni hech qachon to‘xtatma!" – Mening shiorim.  
+> 👉 [GitHub profilingizga qaytish uchun bosing](https://github.com/ilhom71)
+
