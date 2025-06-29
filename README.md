@@ -49,7 +49,7 @@ Men O‘zbekistondanman. Dasturlashga bo‘lgan qiziqishim orqali veb ilovalar, 
 ## 📬 Muloqot uchun:
 
 <p>
-  <a href="https://t.me/ilhommirtojiyev" target="_blank">
+  <a href="https://t.me/ilhomuzb0001" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.instagram.com/ilhommirtojiyev1" target="_blank">
